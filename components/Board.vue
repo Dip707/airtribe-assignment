@@ -3,7 +3,7 @@
         <div class='shadow-md '>
             titlebar
         </div>
-        <Group />
+        <Status />
     </div>
 </template>
 
